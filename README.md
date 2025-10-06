@@ -257,8 +257,7 @@ if "messages" not in st.session_state:
 1. **Clone or Download the Project**
    ```bash
    # If using git
-   git clone <your-repo-url>
-   cd math-app-project
+   git clone https://github.com/Syam-1133/Syam-s-NeuroMath-AI?tab=readme-ov-file
    ```
 
 2. **Create Virtual Environment**
@@ -379,25 +378,9 @@ wikipedia>=1.4.0
 ├── 🐍 math_app.py           # Main application file
 ├── 🔐 .env                  # Environment variables (create this)
 ├── 📦 requirements.txt      # Dependencies
-├── 📖 README.md            # Original project README
-├── 📘 MATH_APP_README.md   # This file (math app specific)
-│
-├── ⚙️  config/              # Configuration files
-│   ├── 🐍 __init__.py
-│   └── ⚙️  settings.py
-│
-├── 📂 src/                 # Source code (other project files)
-│   ├── 🎨 components/
-│   ├── ⚡ services/
-│   └── 🛠️  utils/
-│
-├── 📚 docs/                # Documentation
-│   ├── 🚀 DEPLOYMENT.md
-│   └── 💻 DEVELOPMENT.md
-│
-└── 🧪 tests/               # Test files
-    ├── 🐍 __init__.py
-    └── ✅ test_basic.py
+├── 📖 README.md            #  project README
+
+
 ```
 
 <div align="center">
@@ -559,17 +542,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Created with ❤️ by Syam** 
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="Syamkklr1123@gmai.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Syam-1133">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/syam1133/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
