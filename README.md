@@ -1,52 +1,127 @@
-# 🧮✨ Syam's NeuroMath AI ✨🧮
+<div align="center">
 
-### *Advanced Mathematical Intelligence System with AI-Powered Reasoning*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Syam's%20NeuroMath%20AI&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Advanced%20Mathematical%20Intelligence%20System&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-Lightning%20Fast-00D4FF?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🧮+NeuroMath+AI+🧮;Where+Math+Meets+Intelligence" alt="Typing SVG" />
+</p>
+
+### *🚀 Advanced Mathematical Intelligence System with AI-Powered Reasoning 🚀*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Groq-Lightning%20Fast-00D4FF?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Math-Solver-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Reasoning-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-00ff00?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Math-Solver-orange?style=for-the-badge&logo=wolframalpha&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/AI-Reasoning-8A2BE2?style=for-the-badge&logo=brain&logoColor=white&labelColor=000000" />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+</p>
+
+</div>
 
 ---
 
-## 🚀 **Project Overview**
+<div align="center">
+
+## 🚀 **Project Overview** 🚀
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" height="200">
+
+</div>
 
 **Syam's NeuroMath AI** is an advanced mathematical intelligence system that combines the power of AI reasoning with lightning-fast computation. This application serves as your personal mathematical assistant, capable of solving complex problems, providing step-by-step explanations, and accessing real-time information from the web.
 
-### 🎯 **What does this application do?**
+<div align="center">
 
-- **🧮 Mathematical Problem Solving**: Solves complex mathematical equations with detailed step-by-step explanations
-- **🔍 Intelligent Research**: Searches Wikipedia for relevant information and data
-- **⚡ AI-Powered Reasoning**: Provides logical reasoning for complex problems
-- **🎨 Beautiful UI**: Features a stunning cyberpunk-inspired dark theme with glowing animations
-- **💬 Interactive Chat**: Real-time conversation interface with mathematical intelligence
+### 🎯 **What does this application do?** 🎯
+
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+<strong>🧮 Mathematical Problem Solving</strong><br>
+<em>Solves complex equations with detailed explanations</em>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+<strong>🔍 Intelligent Research</strong><br>
+<em>Searches Wikipedia for relevant information</em>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="100"><br>
+<strong>⚡ AI-Powered Reasoning</strong><br>
+<em>Provides logical reasoning for complex problems</em>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<strong>🎨 Beautiful UI</strong><br>
+<em>Cyberpunk-inspired dark theme with animations</em>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
 
 ---
 
-## 🏗️ **Project Architecture & Creation Process**
+<div align="center">
 
-### **1. Technology Stack Selection**
+## 🏗️ **Project Architecture & Creation Process** 🏗️
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+
+</div>
+
+### **1. Technology Stack Selection** 🛠️
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="60" height="60"><br>
+<strong>Streamlit</strong><br>
+<em>Frontend Framework</em>
+</td>
+<td align="center" width="33%">
+<img src="https://python-langchain.readthedocs.io/en/latest/_static/wordmark.png" width="120" height="40"><br>
+<strong>LangChain</strong><br>
+<em>AI Framework</em>
+</td>
+<td align="center" width="33%">
+<img src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg" width="60" height="60"><br>
+<strong>Groq</strong><br>
+<em>Lightning Inference</em>
+</td>
+</tr>
+</table>
+
+</div>
 
 When creating this project, I carefully selected each technology for specific reasons:
 
-#### **Core Framework: Streamlit**
+#### **🚀 Core Framework: Streamlit**
 ```python
 import streamlit as st
 ```
 - **Why Streamlit?** Rapid development, built-in UI components, perfect for AI applications
 - **Benefits**: Easy deployment, interactive widgets, real-time updates
 
-#### **AI/LLM Integration: LangChain + Groq**
+#### **🤖 AI/LLM Integration: LangChain + Groq**
 ```python
 from langchain_groq import ChatGroq
 from langchain.chains import LLMMathChain
@@ -56,13 +131,17 @@ from langchain.agents import AgentExecutor, create_react_agent
 - **Why Groq?** Ultra-fast inference speed (up to 500 tokens/second)
 - **Model Used**: Gemma2-9b-It for balanced performance and accuracy
 
-#### **Agent-Based Architecture**
+#### **🧠 Agent-Based Architecture**
 ```python
 from langchain.agents import Tool
 from langchain_community.utilities import WikipediaAPIWrapper
 ```
 - **Multi-Tool Agent**: Wikipedia search, Calculator, Reasoning engine
 - **ReAct Pattern**: Reasoning and Acting in language models
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
+</div>
 
 ---
 
@@ -150,13 +229,30 @@ if "messages" not in st.session_state:
 
 ---
 
-## 🔧 **Installation & Setup**
+<div align="center">
 
-### **Prerequisites**
-- Python 3.8 or higher
-- Groq API Key (free at [console.groq.com](https://console.groq.com))
+## 🔧 **Installation & Setup** 🔧
 
-### **Step-by-Step Installation**
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="300">
+
+</div>
+
+### **📋 Prerequisites**
+<div align="center">
+
+| Requirement | Version | Link |
+|-------------|---------|------|
+| 🐍 Python | 3.8+ | [Download](https://python.org) |
+| 🔑 Groq API Key | Free | [Get Here](https://console.groq.com) |
+| 💻 Terminal/IDE | Any | VS Code Recommended |
+
+</div>
+
+### **📦 Step-by-Step Installation**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+</div>
 
 1. **Clone or Download the Project**
    ```bash
@@ -210,62 +306,103 @@ wikipedia>=1.4.0
 
 ---
 
-## 🎮 **Usage Guide**
+<div align="center">
 
-### **Basic Mathematical Operations**
-```
-Input: "Calculate the integral of x^2 from 0 to 5"
-Output: Step-by-step solution with explanation
-```
+## 🎮 **Usage Guide** 🎮
 
-### **Complex Problem Solving**
-```
-Input: "If a train travels 120 km/h for 2.5 hours, how far does it go?"
-Output: Detailed calculation with reasoning
-```
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400">
 
-### **Research Queries**
+</div>
+
+### **🧮 Basic Mathematical Operations**
+<div align="center">
+
 ```
-Input: "Tell me about the Pythagorean theorem and calculate the hypotenuse of a triangle with sides 3 and 4"
-Output: Wikipedia information + mathematical calculation
+💭 Input: "Calculate the integral of x^2 from 0 to 5"
+🤖 Output: Step-by-step solution with explanation
 ```
 
-### **Reasoning Questions**
+<img src="https://latex.codecogs.com/svg.image?\int_0^5&space;x^2&space;dx&space;=&space;\frac{x^3}{3}&space;\Big|_0^5&space;=&space;\frac{125}{3}" />
+
+</div>
+
+### **🚂 Complex Problem Solving**
+<div align="center">
+
 ```
-Input: "Explain why the quadratic formula works"
-Output: Detailed mathematical explanation with derivation
+💭 Input: "If a train travels 120 km/h for 2.5 hours, how far does it go?"
+🤖 Output: Detailed calculation with reasoning
 ```
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150">
+
+</div>
+
+### **🔍 Research Queries**
+<div align="center">
+
+```
+💭 Input: "Tell me about the Pythagorean theorem and calculate 
+         the hypotenuse of a triangle with sides 3 and 4"
+🤖 Output: Wikipedia information + mathematical calculation
+```
+
+<img src="https://latex.codecogs.com/svg.image?c&space;=&space;\sqrt{a^2&space;&plus;&space;b^2}&space;=&space;\sqrt{3^2&space;&plus;&space;4^2}&space;=&space;5" />
+
+</div>
+
+### **🧠 Reasoning Questions**
+<div align="center">
+
+```
+💭 Input: "Explain why the quadratic formula works"
+🤖 Output: Detailed mathematical explanation with derivation
+```
+
+<img src="https://latex.codecogs.com/svg.image?x&space;=&space;\frac{-b&space;\pm&space;\sqrt{b^2&space;-&space;4ac}}{2a}" />
+
+</div>
 
 ---
 
-## 🏛️ **Project Structure**
+<div align="center">
+
+## 🏛️ **Project Structure** 🏛️
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
+
+</div>
 
 ```
-math_app_project/
+📁 math_app_project/
 │
-├── math_app.py           # Main application file
-├── .env                  # Environment variables (create this)
-├── requirements.txt      # Dependencies
-├── README.md            # Original project README
-├── MATH_APP_README.md   # This file (math app specific)
+├── 🐍 math_app.py           # Main application file
+├── 🔐 .env                  # Environment variables (create this)
+├── 📦 requirements.txt      # Dependencies
+├── 📖 README.md            # Original project README
+├── 📘 MATH_APP_README.md   # This file (math app specific)
 │
-├── config/              # Configuration files
-│   ├── __init__.py
-│   └── settings.py
+├── ⚙️  config/              # Configuration files
+│   ├── 🐍 __init__.py
+│   └── ⚙️  settings.py
 │
-├── src/                 # Source code (other project files)
-│   ├── components/
-│   ├── services/
-│   └── utils/
+├── 📂 src/                 # Source code (other project files)
+│   ├── 🎨 components/
+│   ├── ⚡ services/
+│   └── 🛠️  utils/
 │
-├── docs/                # Documentation
-│   ├── DEPLOYMENT.md
-│   └── DEVELOPMENT.md
+├── 📚 docs/                # Documentation
+│   ├── 🚀 DEPLOYMENT.md
+│   └── 💻 DEVELOPMENT.md
 │
-└── tests/               # Test files
-    ├── __init__.py
-    └── test_basic.py
+└── 🧪 tests/               # Test files
+    ├── 🐍 __init__.py
+    └── ✅ test_basic.py
 ```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="150">
+</div>
 
 ---
 
@@ -413,20 +550,41 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Contact & Support**
+<div align="center">
 
-**Created by Syam** 
+## 📞 **Contact & Support** 📞
 
-- 📧 **Email**: [your-email@example.com]
-- 🐙 **GitHub**: [@Syam-1133](https://github.com/Syam-1133)
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**Created with ❤️ by Syam** 
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Syam-1133">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thank%20You!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 ### 🌟 **Star this project if you found it helpful!** 🌟
 
-**Syam's NeuroMath AI** - *Where Mathematics Meets Artificial Intelligence*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Syam's+NeuroMath+AI;Where+Math+Meets+AI;Thanks+for+Visiting!" alt="Typing SVG" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### **⭐ Don't forget to give this repo a star! ⭐**
 
 </div>
